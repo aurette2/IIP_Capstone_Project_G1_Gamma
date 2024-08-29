@@ -3,3 +3,6 @@ seaborn
 shap
 matplotlib
 streamlit
+plotly
+numpy
+pandas
