@@ -1,8 +1,6 @@
 # IIP Capstone Project – Bank Customer Churn Prediction
-======================================================
 
 ## Objective
----------
 
 The goal of this project is to predict whether a bank customer will leave the bank based on their demographics and financial information.
 
@@ -13,7 +11,6 @@ This project aims to develop your skills in:
 - Dashboard communication
 
 ## Project Overview
-----------------
 
 In this project, we analyzed a dataset containing various details about bank customers.
 The main tasks completed were:
@@ -28,7 +25,6 @@ The main tasks completed were:
    Provided actionable insights to the firm based on data patterns and model interpretation.
 
 ## Dataset Description
--------------------
 
 The dataset includes the following features:
 
@@ -47,7 +43,6 @@ The dataset includes the following features:
 - Exited: Target variable; 1 if the customer left the bank, 0 if retained.
 
 ## Tools & Technologies
---------------------
 
 - Python
 - Pandas, NumPy
@@ -56,19 +51,16 @@ The dataset includes the following features:
 - Matplotlib, Seaborn (for data visualization)
 
 ## Dashboard Link
---------------
 
 Explore the interactive churn prediction dashboard:
 
 https://iipcapstoneprojectg1gamma-vjvcyqtuxzmpszpufisrtb.streamlit.app/
 
-Author
-------
+## Author
 
 Charmaine Aurette O. A. Yebadokpo  
 AI & Data Science Enthusiast
 
-License
--------
+## License
 
 This project is licensed under the MIT License.
